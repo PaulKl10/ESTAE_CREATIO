@@ -1,0 +1,33 @@
+
+/* SECTION H1 */
+.crea-texte{
+    background-color: #1dfccc;
+}
+.section_h1{
+    background-color: rgb(0, 0, 43);
+    padding: 15vh 18vh;
+    color: white;
+}
+
+
+h2{
+    text-align: center;
+    color: rgb(0, 0, 43);
+    border-left: 4px solid #02be70;
+    border-right: 4px solid #02be70;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.color{
+    background-color: rgb(226, 226, 226);
+}
+
+/* FOOTER */
+footer{
+    background-color: rgb(0, 0, 43);
+    color: white;
+    height: 10rem;
+}
